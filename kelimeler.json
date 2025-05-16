@@ -14,7 +14,7 @@
                 "JUNGLE"
             ],
             [
-                "FLOOD"
+                "VALLEY"
             ],
             [
                 "WHALE"
@@ -35,7 +35,7 @@
                 "WATERFALL"
             ],
             [
-                "PENGUIN"
+                "SEA TURTLE"
             ]
         ],
         [
@@ -46,7 +46,7 @@
                 "JUNGLE"
             ],
             [
-                "FLOOD"
+                "VALLEY"
             ],
             [
                 "WHALE"
@@ -67,7 +67,7 @@
                 "WATERFALL"
             ],
             [
-                "PENGUIN"
+                "SEA TURTLE"
             ]
         ],
         [
@@ -78,7 +78,7 @@
                 "jungle"
             ],
             [
-                "flood"
+                "valley"
             ],
             [
                 "whale"
@@ -99,7 +99,7 @@
                 "waterfall"
             ],
             [
-                "penguin"
+                "seaturtle"
             ]
         ]
     ]
